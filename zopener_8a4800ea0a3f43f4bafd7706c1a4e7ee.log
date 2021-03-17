@@ -1,0 +1,72 @@
+[27624:27020:2021-3-12 14:29:53.871] Main Start
+[11508:27168:2021-3-12 14:29:53.871] Main Start
+[27624:27020:2021-3-12 14:29:53.871] Command line:"C:\Users\91733\Downloads\Zoom_cm_fo42anktZ9vvrZo4_m0cabpW4Frsp-FFZSiHGx1vaAg0Q9THTqJ3pK@Y6Z+zywVcNCTdoFI_k0b3787d9742c200b_.exe"  Instance:0xE40000 Show State:1
+[11508:27168:2021-3-12 14:29:53.871] Command line:"C:\Users\91733\Downloads\Zoom_cm_fo42anktZ9vvrZo4_m0cabpW4Frsp-FFZSiHGx1vaAg0Q9THTqJ3pK@Y6Z+zywVcNCTdoFI_k0b3787d9742c200b_.exe"  Instance:0xE40000 Show State:1
+[27624:27020:2021-3-12 14:29:53.871] [app_init] init_opener_worker failed.
+[27624:27020:2021-3-12 14:29:53.871] MyMain Failed to init.
+[27624:27020:2021-3-12 14:29:53.871] Main End
+[11508:27168:2021-3-12 14:29:54.47] C:\
+[11508:27168:2021-3-12 14:29:54.184] Main End
+[25880:14920:2021-3-12 14:30:4.920] Main Start
+[25880:14920:2021-3-12 14:30:4.920] Command line:"C:\Users\91733\Downloads\Zoom_cm_fo42anktZ9vvrZo4_m0cabpW4Frsp-FFZSiHGx1vaAg0Q9THTqJ3pK@Y6Z+zywVcNCTdoFI_k0b3787d9742c200b_.exe"  Instance:0xE40000 Show State:1
+[25880:14920:2021-3-12 14:30:4.944] C:\
+[25880:20920:2021-3-12 14:30:5.41] [process_requst] start, url:https://us02web.zoom.us/conf/launch
+[25880:20920:2021-3-12 14:30:9.53] [req_state_read_status_code] zHttpQueryInfo complete, status:200
+[25880:20920:2021-3-12 14:30:9.53] [req_state_read_status_code] zHttpQueryInfo complete, status:200 Error: 0
+[25880:20920:2021-3-12 14:30:9.53] [log_response_content] Content length (1048576 as unknown):919 , Total read: 919 , Error No: 0 , Status code: 200
+[25880:20920:2021-3-12 14:30:9.53] [log_response_content] header:
+[25880:20920:2021-3-12 14:30:9.53] HTTP/1.1 200 
+Date: Fri, 12 Mar 2021 09:00:07 GMT
+Content-Type: text/plain;charset=utf-8
+Content-Length: 919
+Connection: keep-alive
+x-zm-trackingid: WEB_c43eda7b63128775f105a943c043d80d
+X-Content-Type-Options: nosniff
+Content-Security-Policy: upgrade-insecure-requests; default-src https://*.zoom.us https://zoom.us https://us01pbxstatic.zoom.us blob: 'self'; script-src 'unsafe-eval' 'unsafe-inline' blob: about: https://ruanshi2.8686c.com https://ajax.aspnetcdn.com/ajax/3.5/MicrosoftAjax.js https://appsforoffice.microsoft.com https://assets.zendesk.com https://autocomplete.demandbase.com https://cdn.wootric.com https://cdncache-a.akamaihd.net https://connect.facebook.net https://consent.trustarc.com https://d.adroll.mgr.consensu.org https://d2b9h3rz4xo53c.cloudfront.net https://d24cgw3uvb9a9h.cloudfront.net https://googleads.g.doubleclick.net https://pi.pardot.com https://s.dcbap.com https://s.ytimg.com https://s3.amazonaws.com https://scout-cdn.salesloft.com https://sealserver.trustwave.com https://secure-cdn.mplxtms.com https://serve2.cheqzone.com https://snap.licdn.com https://sp.analytics.yahoo.com https://static.zdassets.com https://static2.sharepointonline.com https://tag.demandbase.com https://tpc.googlesyndication.com https://tracking.g2crowd.com https://trk.techtarget.com https://www.comeet.co https://www.dropbox.com https://www.google-analytics.com https://static.zoom.com.cn https://www.googleadservices.com/pagead/conversion_async.js https://www.googletagmanager.com/gtm.js https://www.googletagmanager.com/* https://optimize.google.com https://tagmanager.google.com https://www.gstatic.com/recaptcha/releases/ https://www.gstatic.cn/recaptcha/releases/ https://google.com https://docs.google.com https://cse.google.com https://maps.google.com https://www.google.com https://www.recaptcha.net https://linkedin.com https://platform.linkedin.com https://px.ads.linkedin.com https://ads.linkedin.com https://www.youtube.com https://us01pbxstatic.zoom.us https://www.gstatic.com https://www.gstatic.cn https://fonts.googleapis.com https://hcaptcha.com https://assets.hcaptcha.com https://*.ada.support https://*.adroll.com https://*.hotjar.com https://*.zoom.us https://*.zoomcloudpbx.com https://*.zoomus.cn https://*.zopim.com https://adroll.com https://zoom.us https://apis.google.com https://gstatic.zoom.com.cn 'self'; img-src https: about: blob: data: 'self'; style-src https: safari-extension: chrome-extension: 'unsafe-inline' data: 'self'; font-src https: safari-extension: chrome-extension: blob: data: 'self'; connect-src * about: blob: data: 'self'; media-src * rtmp: blob: data: 'self'; frame-src https: ms-appx-web: zoommtg: zoomus: wvjbscheme: data: 'self'; object-src 'none'; base-uri 'none';
+X-FRAME-OPTIONS: SAMEORIGIN
+Set-Cookie: zm_aid=""; Domain=.zoom.us; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/; Secure; HttpOnly
+Set-Cookie: zm_haid=""; Domain=.zoom.us; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/; Secure; HttpOnly
+Set-Cookie: web_zak=""; Domain=.zoom.us; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/; Secure; HttpOnly
+Set-Cookie: cred=867B6B439C7216B5DA537E448C017194; Path=/; Secure; HttpOnly
+Set-Cookie: _zm_page_auth=us02_c_BMTckh1aS82nl_LQKetVnA; Domain=.zoom.us; Path=/; Secure; HttpOnly
+p3p: CP="NOI ADM DEV PSAi COM NAV OUR OTR STP IND DEM"
+Set-Cookie: _zm_ssid=us02_c_-pt_XefrQRe7zP5OIt-muQ; Domain=.zoom.us; Path=/; Secure; HttpOnly
+Set-Cookie: _zm_ctaid=gQG1g80WTtCowXE5b4fZ8A.1615539606998.2785f708eb310bfe2018e7e886da3cdd; Domain=.zoom.us; Expires=Fri, 12-Mar-2021 11:00:06 GMT; Path=/; Secure; HttpOnly
+Set-Cookie: _zm_chtaid=304; Domain=.zoom.us; Expires=Fri, 12-Mar-2021 11:00:06 GMT; Path=/; Secure; HttpOnly
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-XSS-Protection: 1; mode=block
+Referrer-Policy: strict-origin-when-cross-origin
+
+
+[25880:20920:2021-3-12 14:30:9.53] [process_requst] End for url:https://us02web.zoom.us/conf/launch, return code:200, Error:0, Response content size:919
+[25880:14920:2021-3-12 14:30:9.221] [client_has_installed_app] found path:
+[25880:14920:2021-3-12 14:30:9.221]  ***NULL-POINTER-PLACEHOLDER***
+[25880:14920:2021-3-12 14:30:9.221] [param_query_local_path] path is: C:\Users\91733\AppData\Roaming\Zoom\ZoomDownload\ dir create response : 1 system error: 1008
+[25880:14920:2021-3-12 14:30:9.221] [downloader_run] State:0
+[25880:1432:2021-3-12 14:30:9.221] [process_requst] start, url:https://us02web.zoom.us/client/latest/Installer.exe
+[25880:14920:2021-3-12 14:30:9.221] [client_has_installed_app] found path:
+[25880:14920:2021-3-12 14:30:9.221]  ***NULL-POINTER-PLACEHOLDER***
+[25880:1432:2021-3-12 14:30:11.154] [req_state_read_status_code] zHttpQueryInfo complete, status:200
+[25880:1432:2021-3-12 14:30:11.154] [req_state_read_status_code] zHttpQueryInfo complete, status:200 Error: 0
+[25880:1432:2021-3-12 14:30:12.689] [read_response_file] Status Code:200, content length: 753904, total read: 753904, error code: 0
+[25880:1432:2021-3-12 14:30:12.873] [process_requst] End for url:https://us02web.zoom.us/client/latest/Installer.exe, return code:200, Error:0, Response content size:0
+[25880:14920:2021-3-12 14:30:12.913] [handle_download_job_done] Index: 1 Curr index: 1 StatusCode: 200 Error: 0 Response is Empty. 
+[25880:1432:2021-3-12 14:30:14.270] [process_requst] start, url:https://us02web.zoom.us/client/latest/Zoom.msi
+[25880:1432:2021-3-12 14:30:15.465] [req_state_read_status_code] zHttpQueryInfo complete, status:200
+[25880:1432:2021-3-12 14:30:15.465] [req_state_read_status_code] zHttpQueryInfo complete, status:200 Error: 0
+[25880:14920:2021-3-12 14:30:18.723] [downloader_cancel] State:1
+[25880:1432:2021-3-12 14:30:18.749] [read_response_file] Status Code:200, content length: 14462875, total read: 1769472, error code: 1011
+[25880:1432:2021-3-12 14:30:18.967] [process_requst] End for url:https://us02web.zoom.us/client/latest/Zoom.msi, return code:200, Error:1011, Response content size:0
+[25880:14920:2021-3-12 14:30:18.975] Main End
+[21080:11808:2021-3-17 13:55:21.206] Main Start
+[21080:11808:2021-3-17 13:55:21.214] Command line:"C:\Users\91733\Downloads\Zoom_cm_fo42anktZ9vvrZo4_m0cabpW4Frsp-FFZSiHGx1vaAg0Q9THTqJ3pK@Y6Z+zywVcNCTdoFI_k0b3787d9742c200b_.exe" "C:\Users\91733\Downloads\GitHubDesktopSetup (1).exe" Instance:0xA20000 Show State:1
+[21080:11808:2021-3-17 13:55:21.230] C:\
+[21080:11808:2021-3-17 13:55:21.246] Main End
+[7812:512:2021-3-17 13:57:3.291] Main Start
+[7812:512:2021-3-17 13:57:3.291] Command line:"C:\Users\91733\Downloads\Zoom_cm_fo42anktZ9vvrZo4_m0cabpW4Frsp-FFZSiHGx1vaAg0Q9THTqJ3pK@Y6Z+zywVcNCTdoFI_k0b3787d9742c200b_.exe" "C:\Users\91733\Downloads\nexus-steps (1).docx" "C:\Users\91733\Downloads\Zoom_cm_fo42anktZ9vvrZo4_m0cabpW4Frsp-FFZSiHGx1vaAg0Q9THTqJ3pK@Y6Z+zywVcNCTdoFI_k0b3787d9742c200b_ - Copy - Copy.exe" Instance:0xA20000 Show State:1
+[7812:512:2021-3-17 13:57:3.315] C:\
+[7812:512:2021-3-17 13:57:3.323] Main End
+[11408:20924:2021-3-17 13:57:10.650] Main Start
+[11408:20924:2021-3-17 13:57:10.650] Command line:"C:\Users\91733\Downloads\Zoom_cm_fo42anktZ9vvrZo4_m0cabpW4Frsp-FFZSiHGx1vaAg0Q9THTqJ3pK@Y6Z+zywVcNCTdoFI_k0b3787d9742c200b_.exe" "C:\Users\91733\Downloads\GitHubDesktopSetup (1).exe" "C:\Users\91733\Downloads\Zoom_cm_fo42anktZ9vvrZo4_m0cabpW4Frsp-FFZSiHGx1vaAg0Q9THTqJ3pK@Y6Z+zywVcNCTdoFI_k0b3787d9742c200b_ - Copy.exe" "C:\Users\91733\Downloads\Zoom_cm_fo42anktZ9vvrZo4_m0cabpW4Frsp-FFZSiHGx1vaAg0Q9THTqJ3pK@Y6Z+zywVcNCTdoFI_k0b3787d9742c200b_ - Copy - Copy.exe" "C:\Users\91733\Downloads\nexus-steps (1) - Copy.docx" "C:\Users\91733\Downloads\job-import-plugin - Copy.hpi" "C:\Users\91733\Downloads\GitHubDesktopSetup (1) - Copy.exe" "C:\Users\91733\Downloads\Zoom_cm_fo42anktZ9vvrZo4_m0cabpW4Frsp-FFZSiHGx1vaAg0Q9THTqJ3pK@Y6Z+zywVcNCTdoFI_k0b3787d9742c200b_ - Copy - Copy - Copy.exe" Instance:0xA20000 Show State:1
+[11408:20924:2021-3-17 13:57:10.682] C:\
+[11408:20924:2021-3-17 13:57:10.682] Main End
